@@ -1,0 +1,16 @@
+tutorial de instalación de DoxPhish v3.0 :D
+---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
+
+1. git clone https://github.com/Federex133/IPtoolFREE <- Para clonar la herramienta
+----------------------------------------------------------------------------------------------------------------
+2. cd IPtoolFREE <- Para entrar al directorio de donde se clono la herramienta
+----------------------------------------------------------------------------------------------------------------
+3. unzip IPtoolFREE.zip <- Para descomprimir la herramienta
+----------------------------------------------------------------------------------------------------------------
+4. chmod +x IPtoolFREE <- Para dar permisos de ejecución (NO ES NECESARIO YA QUE ES ZIP)
+----------------------------------------------------------------------------------------------------------------
+5. ./IPtoolFREE <- Para ejecutar la herramienta
+----------------------------------------------------------------------------------------------------------------
+
+(Si te da algún error el ejecutarla o algunas funciones de la herramienta no te funcionan lo mas seguro es que te falten dependencias, la herramienta funciona a la perfección)
